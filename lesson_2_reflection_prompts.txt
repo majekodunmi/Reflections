@@ -1,18 +1,31 @@
 What happens when you initialize a repository? Why do you need to do it?
+	when i initialize a repository, it create a git repository with a .git directory. One need to create a repository so that it can create the .git directory in the containing folder, the .git directory stores info about the history of the repository since it was created.
 
 How is the staging area different from the working directory and the repository?
+The staging area is different form the working directory and the repository because -- the staging area (can also be referred to the syncing area) is an intermdiary between the working directory and the repository. Files from the wqorking directory is added to the staging area one by one and then the files from the staging area are committed to the repository.
+
 What value do you think it offers?
+it offers the efficiency value.
+it helps to ensure that files are added 
+before they are committed, it also helps to check the status of a file. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Using the staging area, i can ensure i have one commit per logical change by adding all the changes i made to the staging area before commiting all the changes at once. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches would be helpful if i want to try out an experiemental feature without affecting the master file.
+Also branches is needed if i want to give out a mock or remote version of my file and still keep things organised. 
 
 How do the diagrams help you visualize the branch structure?
+The diagrams helps to simplify the branch structure, making it look like a tree with branches, it helps to see the commits of each branch and what makes a branch differ from other branch.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches together helps to create a new branch which stores the commits of both branches. It is 
+	represented digramatically in order for easy understanding and simplicity. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Git's automatic merging helps saves times
+as well detecting if there is any error or confilicts while merging. 

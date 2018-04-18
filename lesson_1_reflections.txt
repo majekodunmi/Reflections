@@ -1,33 +1,46 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
+    Viewing a diff between two versions of a file help me to see the bug that was introduced efficiently.
+    Using the 'log diff' command, i can easily spot the bug and make necessary changes without me going 
+    through the code step by step.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    Having easy access to the entire history of a file make you a more efficient 
+    programmer because you can always at anytime go through the history to fish out
+    something when there is a problem with the new file. It makes the programmer efficient
+    in carrying out his/her work .
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+    The advantage of manually choosing when to create a commit like you do in Git
+    help to save the situation of saving irrelevant changes made to a file.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    Git allow saving multiple files in one commit so that one can have the files
+    together in one piece and with comments indicating what each commit did, 
+    thereby making the files smarter other than being bulky. One will have one
+    logical or meaningful per each commit.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    git log command provides the various commit history of a file and git diff 
+    command help to see the different between two file via their commit history.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Very Confident, knowing i can always go back to the version my file was 
+    after new changes had break something.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I want to try using Git for saving my codes in the cloud so i can be rest assured
+    i have a good backup of my files, i also want to use to explore how i can have different
+    versions of my file without affecting the main (master) file.
