@@ -1,5 +1,4 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
     Viewing a diff between two versions of a file help me to see the bug that was introduced efficiently.
     Using the 'log diff' command, i can easily spot the bug and make necessary changes without me going 
